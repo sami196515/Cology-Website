@@ -1,0 +1,2 @@
+Single-blog is het standaard doc template voor een blog 
+Blog is de hoofdpagina 
